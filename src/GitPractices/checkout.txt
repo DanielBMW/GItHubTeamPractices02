@@ -1,0 +1,11 @@
+Check out page
+
+Item
+
+Price
+
+Promotion percentage
+
+Tax
+
+Completed!
